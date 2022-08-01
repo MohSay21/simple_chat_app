@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035222479142",
+    "project_id": "chat-app-c3ba9",
+    "storage_bucket": "chat-app-c3ba9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035222479142:android:62f97536f2f549d4f211e7",
+        "android_client_info": {
+          "package_name": "com.mohaa.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035222479142-gsaupueeu6lclbfetho2hlqau93piohv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM4aV7eZmvZbyyDDD-KDvbu2yOgrdq-b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035222479142-gsaupueeu6lclbfetho2hlqau93piohv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
